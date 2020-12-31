@@ -1,0 +1,35 @@
+body
+{
+	padding: 0px;
+	margin: 0px 0px 0px 0px;
+}
+.header
+{
+	width: 100%;
+	float: left;
+}
+.logo
+{
+	width: 100%;
+	float: left;
+}
+.menu
+{
+	width: 100%;
+	float: left;
+}
+.slider
+{
+	width: 100%;
+	float: left;
+}
+.con
+{
+	width: 100%;
+	float: left;
+}
+.footer
+{
+	width: 100%;
+	float: left;
+}
